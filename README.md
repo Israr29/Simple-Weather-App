@@ -1,4 +1,4 @@
-🌤️ Simple Weather Application
+## 🌤️ Simple Weather Application
 
 A lightweight weather app built with HTML, CSS, and JavaScript.
 Users can enter a city name to fetch real-time weather data such as temperature, humidity, and conditions, with matching weather icons.
